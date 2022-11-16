@@ -5,8 +5,8 @@ Design Doc | [Discovery](/dist/docs/discovery.md) | [Exploration](/dist/docs/exp
 
 ## Team
 | Name | Responsibility |
-| --- | --- |
-|  |  |
+| James | Designer |
+| Anon | Manager |
 
 ---
 ## Problem statement
